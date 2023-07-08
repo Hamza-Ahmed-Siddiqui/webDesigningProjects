@@ -1,0 +1,562 @@
+.card-registration .select-input.form-control[readonly]:not([disabled]) {
+    font-size: 1rem !important;
+    line-height: 2.15 !important;
+    padding-left: .75em !important;
+    padding-right: .75em !important;
+    }
+.card-registration .select-arrow {
+top: 13px !important;
+}
+#jenkinsonimage{
+height: 137vh;
+}
+.jenkinsonimge{
+height: 103vh;
+width: 100%;
+}
+#bla{
+background-color: rgb(0, 166, 255);
+}
+#signupimage{
+height: 400px;
+}
+#culur{
+background-color: aqua !important;
+}
+#ulo{
+    color: white !important;
+    
+}
+.nav-link{
+    color: white !important;
+
+}
+.ms-1 {
+    margin-left: 180px  !important;
+  }
+  @media (min-width: 768px) {
+    .carousel-multi-item-2 .col-md-3 {
+      float: left;
+      width: 25%;
+      max-width: 100%;
+    }
+  }
+  
+  .carousel-multi-item-2 .card img {
+    border-radius: 2px;
+  }
+  .loaderbackground{
+    background-color: red;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+.loader{
+    width: 200px;
+    height: 200px;
+    background-image: url("../img/Gear-0.2s-200px.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    left: 40%;
+    top: 30%;
+}
+
+a:hover{
+  color: black;
+}
+.ms-1 {
+    margin-left: 180px  !important;
+  }
+  .ms-11 {
+    margin-left: 225px  !important;
+  }
+  .ms-6 {
+    margin-left: 110px  !important;
+  }
+  .ms-7{
+    margin-left: 200px  !important;
+  }
+  h2{
+    margin: 30px;
+  }
+  .bacimage{
+    width: 100%;
+    height: 600px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(../img/jenkinsons-beach-8-1024x683.jpg);
+    background-attachment: fixed;
+  }
+  .opa{
+    width: 100%;
+    height: 600px;
+    background-color: white;
+    opacity: 0.5 !important;
+
+  }
+body{
+  margin: 0;
+  padding: 0;
+}
+.onlyone{
+  margin-top: 0;
+}
+.ms-8{
+  margin-left: 320px  !important;
+
+}
+#bacimage{
+  width: 100% !important;
+  height: 1070px !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  background-image: url(../img/jenkinsons-adventure-lookout-3.jpg) !important;
+  background-attachment: fixed !important;
+  color: black !important;
+}
+.opa1{
+  width: 100%;
+  height: 1070px;
+  background-color: white;
+  opacity: 0.7 !important;
+    color: black !important;
+    font-size: 1000 !important  ;
+}
+.ms-9{
+  margin-left: 100px  !important;
+}
+.ms-10{
+  margin-left: 80px  !important;
+
+}
+#imgflala{
+  width: 80% !important;
+  margin: 0 200px !important;
+  background-attachment: fixed !important;
+  background-size: cover !important ;
+  background-repeat: no-repeat !important;
+  background-image: url(../img/Hulvat_Jenk-9183-1024x684.jpg);
+  height: 300px !important;
+}
+.opa2{
+  width: 100% !important;
+  height: 300px !important;
+  background-color: black;
+  opacity: 0.7 !important;
+    color: black !important;
+    font-size: 1000 !important  ;
+}
+.ms-15{
+  margin-left: 250px  !important;
+
+}
+#intro {
+  background-image: url("../img/AdventureLookout_2.jpg");
+  height: 100vh;
+  background-repeat: no-repeat; background-size: cover;
+}
+
+@media(max-width: 1200px){
+  #bacolor{
+    background-color: #1173b8 !important;
+    width: 100% !important;
+    height: 600px !important;
+  }
+}
+@media(max-width: 767px){
+  #bacolor{
+    background-color: #1173b8 !important;
+    width: 100% !important;
+    height: 820px !important;
+  }
+}
+@media(max-width:431px){
+  #bacolor{
+    background-color: #1173b8 !important;
+    width: 100% !important;
+    height: 1220px !important;
+  }
+}
+@media(max-width: 1098px){
+  #bacimage{
+    width: 100% !important;
+    height: 1070px !important;
+  }
+.opa1{
+  height: 1070px !important;
+
+}
+
+}
+@media(max-width: 1277px){
+  .ms-1{
+    margin-left: 0 !important;
+  }
+}
+@media(max-width: 854px){
+  #bacimage{
+    width: 100% !important;
+    height: 1300px !important;
+  }
+.opa1{
+  height: 1300px !important;
+
+}
+}
+@media(max-width: 707px){
+  #bacimage{
+    width: 100% !important;
+    height: 1400px !important;
+  }
+.opa1{
+  height: 1400px !important;
+
+}
+}
+@media(max-width: 1098px){
+  #bacimage{
+    width: 100% !important;
+    height: 1400px !important;
+  }
+.opa1{
+  height: 1400px !important;
+
+}
+}
+@media(max-width: 656px){
+  #bacimage{
+    width: 100% !important;
+    height: 1500px !important;
+  }
+.opa1{
+  height: 1500px !important;
+
+}
+}
+@media(max-width: 590px){
+  #bacimage{
+    width: 100% !important;
+    height: 1800px !important;
+  }
+.opa1{
+  height: 1800px !important;
+
+}
+}
+@media(max-width: 503px){
+  #bacimage{
+    width: 100% !important;
+    height: 2000px !important;
+  }
+.opa1{
+  height: 2000px !important;
+
+}
+}
+
+@media(max-width: 432px){
+  #bacimage{
+    width: 100% !important;
+    height: 2000px !important;
+  }
+.opa1{
+  height: 2000px !important;
+
+}
+}
+@media(max-width: 376px){
+  #bacimage{
+    width: 100% !important;
+    height: 2500px !important;
+  }
+.opa1{
+  height: 2500px !important;
+
+}
+}
+@media(max-width: 280px){
+  #bacimage{
+    width: 100% !important;
+    height: 3000px !important;
+  }
+.opa1{
+  height: 3000px !important;
+
+}
+}
+.opa5{
+  width: 100% !important;
+  height: 1200px !important;
+  background-color: black;
+  opacity: 0.6 !important;
+    color: black !important;
+    font-size: 1000 !important  ;
+}
+.bacimage2{
+  width: 100%;
+  height: 600px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url(../img/jenkinsons-beach-8-1024x683.jpg);
+  background-attachment: fixed;
+}
+.opa4{
+  width: 100%;
+  height: 600px;
+  background-color: white;
+  opacity: 0.7 !important;
+    color: black !important;
+    font-size: 1000 !important  ;
+}
+.bacimage3{
+  width: 100%;
+  height: 700px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url(../img/11.jpg);
+}
+.opa3{
+  width: 100% !important;
+  height: 700px !important;
+  background-color: black;
+  opacity: 0.3 !important;
+    color: white !important;
+}
+.bacimage4{
+  width: 100%;
+  height: 700px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url(../img/jenkinsons-beach-aerial.png);
+}
+.opa6{
+  width: 100% !important;
+  height: 700px !important;
+  background-color: black;
+  opacity: 0.3 !important;
+    color: white !important;
+}
+.bacimage5{
+  width: 100%;
+  height: 700px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url(../img/13.jpg);
+  animation-name: myanimation;
+  animation-duration: 25s;
+  animation-iteration-count: infinite;
+}
+@keyframes myanimation{
+  12.5%{
+  background-image: url(../img/13.jpg);
+  }
+  25%{
+  background-image: url(../img/14.jpg);
+  }
+  37.5%{
+    background-image: url(../img/14.jpg);
+    }
+  50%{
+      background-image: url(../img/15.jpg);
+      }
+  62.5%{
+      background-image: url(../img/16.jpg);
+    }
+    75%{
+      background-image: url(../img/17.jpg);
+
+    }
+    87.5%{
+      background-image: url(../img/18.jpg);
+
+    }
+  100%{
+      background-image: url(../img/13.jpg);
+ }
+}
+.bacimage6{
+  width: 100%;
+  height: 800px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url(../img/37.jpg);
+}
+
+.bacimage7{
+  width: 100%;
+  height: 440px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url(../img/46.jpg);
+  background-attachment: fixed;
+}
+.opa7{
+  width: 100% !important;
+  height: 440px !important;
+  background-color: black;
+  opacity: 0.3 !important;
+    color: white !important;
+}
+.opa8{
+  width: 100% !important;
+  height: 510px !important;
+  background-color: white;
+  opacity: 0.9 !important;
+    color: white !important;
+}
+.bacimage8{
+  width: 100%;
+  height: 510px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url(../img/54.jpg);
+  background-attachment: fixed;
+}
+.bacimage9{
+  width: 100%;
+  height: 550px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url(../img/55.jpg);
+  background-attachment: fixed;
+}
+.opa9{
+  width: 100% !important;
+  height: 550px !important;
+  background-color: black;
+  opacity: 0.6 !important;
+    color: white !important;
+    background-attachment: fixed;
+}
+.bacimage10{
+  width: 550px;
+  height: 550px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url(../img/65.jpg);
+  background-attachment: fixed;
+}
+@media(max-width: 983px){
+  .bacolor{
+    background-color: #fff4f4;
+    height: 7000px;
+  }
+}
+.hov:hover{
+  color: blue;
+}
+@media(max-width: 1500px){
+  .madiaquery{
+    width: 1000px;
+    height: 500.39px;
+  }
+}
+@media(max-width: 1230px){
+  .madiaquery{
+    width: 900px;
+    height: 500.39px;
+    margin-left: 200px;
+  }
+}
+@media(max-width: 1151px){
+  .madiaquery{
+    width: 900px;
+    height: 500.39px;
+    margin-left: 70px !important;
+  }
+}
+@media(max-width: 984px){
+  .madiaquery{
+    width: 100% !important;
+    height: 500.39px;
+    margin-left: 0 !important;
+  }
+}
+@media(max-width: 984px){
+  .madiaquery{
+    width: 720px;
+    height: 500.39px;
+    margin-left: 0 !important;
+  }
+}
+@media(max-width: 767px){
+  .madiaquery{
+    width: 720px;
+    height: 1000.39px;
+    margin-left: 0 !important;
+  }
+}
+@media(max-width: 500px){
+  .bacimage{
+    width: 100%;
+    height:  900px;
+  }
+  .opa{
+    width: 100%;
+    height: 900px;
+  }
+}
+@media(max-width: 289px){
+  .bacimage{
+    width: 100%;
+    height:  1100px;
+  }
+  .opa{
+    width: 100%;
+    height: 1100px;
+  }
+}
+@media(max-width: 243px){
+  .bacimage{
+    width: 100%;
+    height:  1500px;
+  }
+  .opa{
+    width: 100%;
+    height: 1500px;
+  }
+}
+@media(max-width: 169px){
+  .bacimage{
+    width: 100%;
+    height:  1900px;
+  }
+  .opa{
+    width: 100%;
+    height: 1900px;
+  }
+}
+@media(max-width: 1764px){
+  .mm{
+    width: 100%;
+    height:  1200px !important;
+  }
+}
+@media(max-width: 1176px){
+  .mm{
+    width: 100%;
+    height:  1950px !important;
+  }
+}
+@media(max-width: 768px){
+  .mm{
+    width: 100%;
+    height:  6530px !important;
+  }
+}
+@media(max-width: 1116px){
+  #imgflala{
+    width: 100%;
+    height:  600px !important;
+    margin-left: 30px !important;
+  }
+  .opa2{
+    width: 100%;
+    height: 600px !important;
+  }
+}
+
+
